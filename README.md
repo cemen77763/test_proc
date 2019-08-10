@@ -1,2 +1,6 @@
 # test_proc
-Creating processes 
+Создание 5 процессов с данной иерархией 
+                                        PARENT
+					  1
+				2		   3
+			   4     	      5        6
